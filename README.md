@@ -6,7 +6,7 @@
 ## Sobre o projeto 
 
 Este é um aplicativo para Android desenvolvido em Kotlin que realiza calculos de Indice de Massa Corporea (Imc). <br/>
-Para desenvolve-lo utilizei o padrão de MVP (Model - View - Presenter) alem de: <br/><br/>
+Para desenvolve-lo utilizei o padrão de MVP (Model - View - Presenter), alem de: <br/><br/>
 -XML para construção de interfaces.<br/>
 -ViewBinding para conexão do código em Kotlin com o XML.<br/>
 -Intents para navegação e troca de dados entre Activitys.<br/>
